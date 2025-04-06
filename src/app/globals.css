@@ -20,6 +20,9 @@
   --card-hover-transition: 0.3s;
 
   --card-border-radius: 12px;
+
+  --font-testimonial: 'Rubik', 'Heebo', sans-serif;
+  --testimonial-transition: 0.5s ease-in-out;
 }
 
 html {
