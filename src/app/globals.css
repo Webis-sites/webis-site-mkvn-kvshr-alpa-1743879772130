@@ -29,6 +29,9 @@
   --faq-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.1);
 
   --font-heebo: 'Heebo', sans-serif;
+
+  --font-heading: 'Rubik', sans-serif;
+  --font-body: 'Heebo', sans-serif;
 }
 
 html {
