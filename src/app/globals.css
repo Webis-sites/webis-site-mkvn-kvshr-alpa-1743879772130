@@ -10,6 +10,9 @@
   --secondary-color: #4ECDC4;
 
   --transition-speed: 0.3s;
+
+  --font-playful: 'Rubik', 'Heebo', sans-serif;
+  --hero-animation-duration: 0.8s;
 }
 
 html {
