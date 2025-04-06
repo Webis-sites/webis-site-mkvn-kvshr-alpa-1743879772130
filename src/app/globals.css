@@ -27,6 +27,8 @@
   --faq-animation-duration: 0.3s;
   --faq-border-radius: 0.5rem;
   --faq-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  --font-heebo: 'Heebo', sans-serif;
 }
 
 html {
