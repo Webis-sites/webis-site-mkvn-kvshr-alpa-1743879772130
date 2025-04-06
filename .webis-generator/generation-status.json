@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-06T09:11:11.999Z",
+  "timestamp": "2025-04-06T09:11:52.959Z",
   "status": {
     "totalComponents": 11,
-    "completedComponents": 4,
+    "completedComponents": 5,
     "failedComponents": 0,
-    "progress": 36
+    "progress": 45
   },
   "components": [
     {
@@ -34,7 +34,7 @@
     {
       "name": "TrainersSection",
       "type": "team",
-      "status": "pending",
+      "status": "completed",
       "description": "Section showcasing the gym's professional trainers"
     },
     {
