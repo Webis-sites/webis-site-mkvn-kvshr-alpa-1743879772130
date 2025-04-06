@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-04-06T09:08:34.646Z",
+  "timestamp": "2025-04-06T09:09:07.666Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "NavigationMenu",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL responsive navigation menu with all website sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the gym's background, experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the gym's various services and offerings"
+    },
+    {
+      "name": "TrainersSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Section showcasing the gym's professional trainers"
+    },
+    {
+      "name": "FacilitiesSection",
+      "type": "features",
+      "status": "pending",
+      "description": "Section highlighting the gym's facilities and equipment"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section displaying client testimonials and reviews"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Section with frequently asked questions and answers"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Section with contact form and information"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with links, social media and copyright"
+    },
+    {
+      "name": "ScrollToTopButton",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button that appears when scrolling down to return to top of page"
+    }
+  ],
   "repoName": "webis-site-mkvn-kvshr-alpa-1743879772130"
 }
