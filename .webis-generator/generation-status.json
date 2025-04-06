@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-06T09:11:52.959Z",
+  "timestamp": "2025-04-06T09:12:32.487Z",
   "status": {
     "totalComponents": 11,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 45
+    "progress": 55
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "FacilitiesSection",
       "type": "features",
-      "status": "pending",
+      "status": "completed",
       "description": "Section highlighting the gym's facilities and equipment"
     },
     {
