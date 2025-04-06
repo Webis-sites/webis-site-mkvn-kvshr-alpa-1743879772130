@@ -18,6 +18,8 @@
 
   --card-animation-duration: 0.5s;
   --card-hover-transition: 0.3s;
+
+  --card-border-radius: 12px;
 }
 
 html {
