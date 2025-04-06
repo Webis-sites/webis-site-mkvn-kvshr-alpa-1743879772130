@@ -15,6 +15,9 @@
   --hero-animation-duration: 0.8s;
 
   --animation-duration: 0.6s;
+
+  --card-animation-duration: 0.5s;
+  --card-hover-transition: 0.3s;
 }
 
 html {
